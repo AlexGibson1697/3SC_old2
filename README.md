@@ -15,7 +15,7 @@ The project, more conveniently known as the ***3SC (3rd Sector Commissioning) Pr
 The ***3SC Project*** used the expenditure data to (a) guide the selection of a ‘maximum-variety’ sample of CCG study sites in terms of their commissioning of VCSEs suppliers, (b) understand in detail the scale and nature of CCG commissioning of VCSEs in the selected study sites, and (c) gain a broader perspective on patterns of VCSE commissioning across the country as a whole.
 
 This ***3SC Project*** *github* repository comprises:
-- The ‘raw’ monthly CCG accounts for the 189 (of the then 195) CCGs for which we were able to obtain satisfactory expenditure data ( in the *./data/raw* directory),
+- The ‘raw’ monthly CCG accounts for the 189 (of the then 195) CCGs for which we were able to obtain satisfactory expenditure data (as a CCG-specific zipfiles in the *./data/raw* directory),
 - A sequence of cleaned datasets culminating in our “analytical dataset” (*InvoicesExtractDF.csv* & *InvoicesExtractDF.RDS* in the *./data/processed* directory). This contains all individual invoices of £25k and above from across the 189 CCGs (n=225 669) and accounts for ***£70.477 billion*** of CCG expenditure. It also includes details on the suppliers each 'named' supplier obtained through automated and manual searches of Company House and Charity Commission registers, as well as public-facing supplier websites.
 - A report detailing (a) how we obtained and cleaned the expenditure data, (b) how suppliers were categorised (including whether or not VCSE), and (c) what the data reveal regarding CCG-level variation in spending on VCSEs in 2018/18 (*./CCG_VCSE_Spend_Report.docx*)
 - A series of data-wrangling and analytical R scripts (in the *./Rscripts* directory)

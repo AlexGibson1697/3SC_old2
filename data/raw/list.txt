@@ -1,0 +1,202 @@
+ Volume in drive H is DataDisk
+ Volume Serial Number is 9092-C833
+
+ Directory of H:\00_Sheaff New Project\00_FinalReport\ForGitHub\OriginalCCGAccountsData
+
+13/01/2023  11:48    <DIR>          .
+13/01/2023  11:48    <DIR>          ..
+01/12/2022  17:44    <DIR>          Airedale CCG
+01/12/2022  17:44    <DIR>          Ashford CCG
+01/12/2022  17:44    <DIR>          Barking Dagenham CCG
+01/12/2022  17:44    <DIR>          Barnet CCG
+01/12/2022  17:44    <DIR>          Barnsley CCG
+01/12/2022  17:44    <DIR>          Basildon Brentwood CCG
+01/12/2022  17:44    <DIR>          Bassetlaw CCG
+01/12/2022  17:44    <DIR>          Bath NE Somerset CCG
+01/12/2022  17:44    <DIR>          Bedfordshire CCG
+01/12/2022  17:44    <DIR>          Berkshire West CCG
+01/12/2022  17:44    <DIR>          Bexley CCG
+01/12/2022  17:44    <DIR>          Birmingham and Solihull CCG
+01/12/2022  17:44    <DIR>          Blackburn with Darwen CCG
+01/12/2022  17:44    <DIR>          Blackpool CCG
+01/12/2022  17:44    <DIR>          Bolton CCG
+01/12/2022  17:44    <DIR>          Bradford City CCG
+01/12/2022  17:44    <DIR>          Bradford Districts CCG
+01/12/2022  17:44    <DIR>          Brent CCG
+01/12/2022  17:44    <DIR>          Brighton and Hove CCG
+01/12/2022  17:44    <DIR>          Bristol North Somerset and South Gloucestershire CCG
+01/12/2022  17:44    <DIR>          Bromley CCG
+01/12/2022  17:44    <DIR>          Buckinghamshire CCG
+01/12/2022  17:44    <DIR>          Bury CCG
+01/12/2022  17:44    <DIR>          Calderdale CCG
+01/12/2022  17:44    <DIR>          Cambs Peterborough CCG
+01/12/2022  17:44    <DIR>          Camden CCG
+01/12/2022  17:44    <DIR>          Cannock Chase CCG
+01/12/2022  17:44    <DIR>          Canterbury CCG
+01/12/2022  17:44    <DIR>          Castle Point CCG
+01/12/2022  17:44    <DIR>          Central London CCG
+01/12/2022  17:44    <DIR>          Chorley South Ribble CCG
+01/12/2022  17:44    <DIR>          Coastal West Sussex CCG
+01/12/2022  17:44    <DIR>          Corby CCG
+01/12/2022  17:44    <DIR>          Coventry and Rugby CCG
+01/12/2022  17:44    <DIR>          Crawley CCG
+01/12/2022  17:44    <DIR>          Croydon CCG
+01/12/2022  17:44    <DIR>          Darlington CCG
+01/12/2022  17:44    <DIR>          Dartford Gravesham and Swanley CCG
+01/12/2022  17:44    <DIR>          Doncaster CCG
+01/12/2022  17:44    <DIR>          Dorset CCG
+01/12/2022  17:44    <DIR>          Dudley CCG
+01/12/2022  17:44    <DIR>          Durham Dales CCG
+01/12/2022  17:44    <DIR>          Ealing CCG
+01/12/2022  17:44    <DIR>          East and North Hertfordshire CCG
+01/12/2022  17:44    <DIR>          East Berkshire CCG
+01/12/2022  17:44    <DIR>          East Lancashire CCG
+01/12/2022  17:44    <DIR>          East Riding of Yorkshire CCG
+01/12/2022  17:44    <DIR>          East Staffordshire CCG
+01/12/2022  17:44    <DIR>          East Surrey CCG
+01/12/2022  17:44    <DIR>          Eastbourne Hailsham and Seaford CCG
+01/12/2022  17:44    <DIR>          Eastern Cheshire CCG
+01/12/2022  17:44    <DIR>          Enfield CCG
+01/12/2022  17:44    <DIR>          Erewash CCG
+01/12/2022  17:44    <DIR>          Fareham Gosport CCG
+01/12/2022  17:44    <DIR>          Fylde and Wyre CCG
+01/12/2022  17:44    <DIR>          Gloucestershire CCG
+01/12/2022  17:44    <DIR>          Great Yarmouth and Waveney CCG
+01/12/2022  17:44    <DIR>          Greater Huddersfield CCG
+01/12/2022  17:44    <DIR>          Greater Preston CCG
+01/12/2022  17:44    <DIR>          Greenwich CCG
+01/12/2022  17:44    <DIR>          Guildford and Waverley CCG
+01/12/2022  17:44    <DIR>          Halton CCG
+01/12/2022  17:44    <DIR>          Hambleton Richmondshire and Whitby CCG
+01/12/2022  17:44    <DIR>          Hammersmith and Fulham CCG
+01/12/2022  17:44    <DIR>          Hardwick CCG
+01/12/2022  17:44    <DIR>          Haringey CCG
+01/12/2022  17:44    <DIR>          Harrogate and Rural CCG
+01/12/2022  17:44    <DIR>          Harrow CCG
+01/12/2022  17:44    <DIR>          Hartlepool and Stockton CCG
+01/12/2022  17:44    <DIR>          Hastings and Rother CCG
+01/12/2022  17:44    <DIR>          Havering CCG
+01/12/2022  17:44    <DIR>          Herefordshire CCG
+01/12/2022  17:44    <DIR>          Herts Valleys CCG
+01/12/2022  17:44    <DIR>          Heywood Middleton and Rochdale CCG
+01/12/2022  17:44    <DIR>          High Weald Lewes Havens CCG
+01/12/2022  17:44    <DIR>          Hillingdon CCG
+01/12/2022  17:44    <DIR>          Horsham Mid Sussex CCG
+01/12/2022  17:44    <DIR>          Hounslow CCG
+01/12/2022  17:44    <DIR>          Hull CCG
+01/12/2022  17:44    <DIR>          Ipswich East Suffolk CCG
+01/12/2022  17:44    <DIR>          Isle of Wight CCG
+01/12/2022  17:44    <DIR>          Islington CCG
+01/12/2022  17:44    <DIR>          Kernow CCG
+01/12/2022  17:44    <DIR>          Kingston CCG
+01/12/2022  17:44    <DIR>          Knowsley CCG
+01/12/2022  17:44    <DIR>          Lambeth CCG
+01/12/2022  17:44    <DIR>          Leeds CCG
+01/12/2022  17:44    <DIR>          Leicester City CCG
+01/12/2022  17:44    <DIR>          Lewisham CCG
+01/12/2022  17:44    <DIR>          Lincolnshire East CCG
+01/12/2022  17:44    <DIR>          Lincolnshire West CCG
+13/01/2023  11:48                 0 list.txt
+01/12/2022  17:44    <DIR>          Liverpool CCG
+01/12/2022  17:44    <DIR>          Luton CCG
+01/12/2022  17:44    <DIR>          Manchester CCG
+01/12/2022  17:44    <DIR>          Mansfield Ashfield CCG
+01/12/2022  17:44    <DIR>          Medway CCG
+01/12/2022  17:44    <DIR>          Merton CCG
+01/12/2022  17:44    <DIR>          Mid Essex CCG
+01/12/2022  17:44    <DIR>          Milton Keynes CCG
+01/12/2022  17:44    <DIR>          Morecambe Bay CCG
+01/12/2022  17:44    <DIR>          Nene CCG
+01/12/2022  17:44    <DIR>          Newark and Sherwood CCG
+01/12/2022  17:44    <DIR>          Newcastle Gateshead CCG
+01/12/2022  17:44    <DIR>          North Cumbria CCG
+01/12/2022  17:44    <DIR>          North Derbyshire CCG
+01/12/2022  17:44    <DIR>          North Durham CCG
+01/12/2022  17:44    <DIR>          North East Essex CCG
+01/12/2022  17:44    <DIR>          North East Hampshire and Farnham CCG
+01/12/2022  17:44    <DIR>          North East Lincolnshire CCG
+01/12/2022  17:44    <DIR>          North Hampshire CCG
+01/12/2022  17:44    <DIR>          North Kirklees CCG
+01/12/2022  17:44    <DIR>          North Lincolnshire CCG
+01/12/2022  17:44    <DIR>          North Norfolk CCG
+01/12/2022  17:44    <DIR>          North Staffordshire CCG
+01/12/2022  17:44    <DIR>          North Tyneside CCG
+01/12/2022  17:44    <DIR>          North West Surrey CCG
+01/12/2022  17:44    <DIR>          Northern Eastern and Western Devon CCG
+01/12/2022  17:44    <DIR>          Northumberland CCG
+01/12/2022  17:44    <DIR>          Norwich CCG
+01/12/2022  17:44    <DIR>          Nottingham City CCG
+01/12/2022  17:44    <DIR>          Nottingham North and East CCG
+01/12/2022  17:44    <DIR>          Nottingham West CCG
+01/12/2022  17:44    <DIR>          Oldham CCG
+01/12/2022  17:44    <DIR>          Oxfordshire CCG
+01/12/2022  17:44    <DIR>          Portsmouth CCG
+01/12/2022  17:44    <DIR>          Redbridge CCG
+01/12/2022  17:44    <DIR>          Redditch and Bromsgrove CCG
+01/12/2022  17:44    <DIR>          Richmond CCG
+01/12/2022  17:44    <DIR>          Rotherham CCG
+01/12/2022  17:44    <DIR>          Rushcliffe CCG
+01/12/2022  17:44    <DIR>          Salford CCG
+01/12/2022  17:44    <DIR>          Sandwell and West Birmingham CCG
+01/12/2022  17:44    <DIR>          Scarborough and Ryedale CCG
+01/12/2022  17:44    <DIR>          Sheffield CCG
+01/12/2022  17:44    <DIR>          Shropshire CCG
+01/12/2022  17:44    <DIR>          Somerset CCG
+01/12/2022  17:44    <DIR>          South Cheshire CCG
+01/12/2022  17:44    <DIR>          South Devon and Torbay CCG
+01/12/2022  17:44    <DIR>          South East Staffordshire and Seisdon CCG
+01/12/2022  17:44    <DIR>          South Eastern Hampshire CCG
+01/12/2022  17:44    <DIR>          South Kent Coast CCG
+01/12/2022  17:44    <DIR>          South Lincolnshire CCG
+01/12/2022  17:44    <DIR>          South Norfolk CCG
+01/12/2022  17:44    <DIR>          South Sefton CCG
+01/12/2022  17:44    <DIR>          South Tees CCG
+01/12/2022  17:44    <DIR>          South Tyneside CCG
+01/12/2022  17:44    <DIR>          South Warwickshire CCG
+01/12/2022  17:44    <DIR>          South West Lincolnshire CCG
+01/12/2022  17:44    <DIR>          South Worcestershire CCG
+01/12/2022  17:44    <DIR>          Southampton City CCG
+01/12/2022  17:44    <DIR>          Southend CCG
+01/12/2022  17:44    <DIR>          Southern Derbyshire CCG
+01/12/2022  17:44    <DIR>          Southport and Formby CCG
+01/12/2022  17:44    <DIR>          Southwark CCG
+01/12/2022  17:44    <DIR>          St Helens CCG
+01/12/2022  17:44    <DIR>          Stafford and Surrounds CCG
+01/12/2022  17:44    <DIR>          Stockport CCG
+01/12/2022  17:44    <DIR>          Stoke CCG
+01/12/2022  17:44    <DIR>          Sunderland CCG
+01/12/2022  17:44    <DIR>          Surrey Downs CCG
+01/12/2022  17:44    <DIR>          Surrey Heath CCG
+01/12/2022  17:44    <DIR>          Sutton CCG
+01/12/2022  17:44    <DIR>          Swale CCG
+01/12/2022  17:44    <DIR>          Swindon CCG
+01/12/2022  17:44    <DIR>          Tameside and Glossop CCG
+01/12/2022  17:44    <DIR>          Telford and Wrekin CCG
+01/12/2022  17:44    <DIR>          Thanet CCG
+01/12/2022  17:44    <DIR>          Thurrock CCG
+07/12/2022  15:04    <DIR>          Tower Hamlets CCG (PDF)
+01/12/2022  17:44    <DIR>          Trafford CCG
+01/12/2022  17:44    <DIR>          Vale of York CCG
+01/12/2022  17:44    <DIR>          Vale Royal CCG
+01/12/2022  17:44    <DIR>          Wakefield CCG
+01/12/2022  17:44    <DIR>          Walsall CCG
+01/12/2022  17:44    <DIR>          Waltham Forest CCG
+01/12/2022  17:44    <DIR>          Wandsworth CCG
+01/12/2022  17:44    <DIR>          Warrington CCG
+01/12/2022  17:44    <DIR>          Warwickshire North CCG
+01/12/2022  17:44    <DIR>          West Cheshire CCG
+01/12/2022  17:44    <DIR>          West Essex CCG
+01/12/2022  17:44    <DIR>          West Hampshire CCG
+01/12/2022  17:44    <DIR>          West Kent CCG
+01/12/2022  17:44    <DIR>          West Lancashire CCG
+01/12/2022  17:44    <DIR>          West Leicestershire CCG
+01/12/2022  17:44    <DIR>          West London CCG
+01/12/2022  17:44    <DIR>          West Norfolk CCG
+01/12/2022  17:44    <DIR>          West Suffolk CCG
+01/12/2022  17:44    <DIR>          Wigan CCG
+01/12/2022  17:44    <DIR>          Wiltshire CCG
+01/12/2022  17:44    <DIR>          Wirral CCG
+01/12/2022  17:44    <DIR>          Wolverhampton CCG
+01/12/2022  17:44    <DIR>          Wyre Forest CCG
+               1 File(s)              0 bytes
+             194 Dir(s)  986,215,342,080 bytes free

@@ -3,9 +3,8 @@ This is used to add comments and it can span multiple lines.
 Here I run the underlying R script as soon as possible to produce figures and tables
 This is so I can include information from the R script in the header
 
-And I have made changes
 -->
-![Illustrative Header Image](./MarkdownGraphics/HeaderJointPlot.png)
+![Illustrative Header Image](./outputs/HeaderJointPlot.png)
 ## CCG Spend on VCSEs, 2018/19:  Data & Analysis
 
 As part of an NIHR-funded project on *Commissioning, Co-commissioning and Being Commissioned; the NHS and Third Sector Organisations* ([research protocol](https://tinyurl.com/tvpx3ty2)) we obtained, cleaned and analysed Clinical Commissioning Group (CCG) “over-threshold” expenditure data for 2018/19. 

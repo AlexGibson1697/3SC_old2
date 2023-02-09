@@ -4,7 +4,6 @@ Here I run the underlying R script as soon as possible to produce figures and ta
 This is so I can include information from the R script in the header
 
 -->
-![Illustrative Header Image](./outputs/HeaderJointPlot.png)
 ## CCG Spend on VCSEs, 2018/19:  Data & Analysis
 
 As part of an NIHR-funded project on *Commissioning, Co-commissioning and Being Commissioned; the NHS and Third Sector Organisations* ([research protocol](https://tinyurl.com/tvpx3ty2)) we obtained, cleaned and analysed Clinical Commissioning Group (CCG) “over-threshold” expenditure data for 2018/19. 

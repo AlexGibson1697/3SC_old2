@@ -6,8 +6,6 @@ This is so I can include information from the R script in the header
 -->
 ## CCG Spend on VCSEs, 2018/19:  Data & Analysis
 
-Updated
-
 As part of an NIHR-funded project on *Commissioning, Co-commissioning and Being Commissioned; the NHS and Third Sector Organisations* ([research protocol](https://tinyurl.com/tvpx3ty2)) we obtained, cleaned and analysed Clinical Commissioning Group (CCG) “over-threshold” expenditure data for 2018/19. 
 
 These data were published in response to [HM Treasury’s 2013 guidance](https://tinyurl.com/4m9p23hp) that government bodies should make available, with few exceptions, “all individual invoices, grant payments, expense payments or other such transactions that are over £25,000 . The CCG accounts are part of a now vast array of potentially invaluable expenditure data published in response to the government's transparency agenda.

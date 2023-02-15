@@ -17,7 +17,9 @@ The ***3SC Project*** used the expenditure data to (a) guide the selection of a 
 ![NHS/LA, VCSE & non-VCSE spending by CCG](./outputs/Figure8.png)
 
 This ***3SC Project*** *github* repository comprises:
+
 - The ‘raw’ monthly CCG accounts for the 189 (of the then 195) CCGs for which we were able to obtain satisfactory expenditure data (as CCG-specific zipfiles in the *./data/raw* directory).
+- A set of CCG-specific Excel files manually constructed from the above data and saved in the "./data/processed/Collated_CCG_Invoices* directory). 
 - A single collated file containing all data from the above 189 CCG expenditure files, with minor clarification of shared hospice names (saved as *01_CollatedInvoices.RDS* and *01_CollatedInvoices.csv* in the *./data/processed* directory).
 - An extract from the collated expenditure datafile of all named suppliers (*01_UniqueSuppliers.csv* in the *./data/processed* directory) and a manually-updated version of that file with details on all suppliers (*01_SuppliersInfo_FINAL.csv* also in the *./data/processed* directory).  As detailed in the accompanying report (*CCG_VCSE_Spend_Report.docx*), this includes information on Charity Commission and Company House registration (where available) along with a classification of each supplier's service sector and its VCSE status.
 - A single dataset combining the expenditure and supplier datasets (*02_FullCollatedDataset.RDS*). This includes all records (n=689,536), of which 622,514 were for for payments made and 67,022 were for income received.

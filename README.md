@@ -29,6 +29,7 @@ This ***3SC Project*** *github* repository comprises:
 - All .csv output files (in the *./data/downloads* directory) created by running the above scripts on the analytical dataset.
 - There are also population and lookup files used by the R scripts (in the *./data/external directory*) and a variety of .png files produced by the R scripts for inclusion in the accompanying report and this README document (in the *./outputs* directory).
 
+
 ### Data Analysis and Outputs
 
 The R scripts are fully commented and should guide any replication and/or subsequent use of the CCG expenditure data for 2018/19.  As detailed in the accompanying report (*./CCG_VCSE_Spend_Report.docx*) it is not now possible to download most of the original accounts from the internet - hence their inclusion in the *./data/raw* directory on this repository.
